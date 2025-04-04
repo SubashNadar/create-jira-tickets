@@ -11,4 +11,4 @@
 1. Open browser console while logged into Jira
 2. Paste:
    ```js
-   // Minified script (see scripts/jira-subtask-creator.js)
+   // Minified script (see create-jira-ticket.js)
